@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @janaom
-- 👀 I’m interested in AWS | GCP | Azure
-- 🌱 I’m currently learning Go | Python | Spark | Snowflake | BigQuery | SQL | Kafka | k8s
-- 💞️ I’m looking to collaborate on Cloud/Big Data tasks
+- 👋 Hi, I’m @janaom, Google Cloud ACE, working with Google Cloud services, Airflow, Ansible etc.
+- 👀 I’m interested in Cloud/Data Engineering
+- 🌱 I’m currently learning GCP | Kubernetes 
+- 💞️ I’m looking to collaborate on Cloud/Data Engineering tasks.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jana-polianskaja/)
-
-![image](https://user-images.githubusercontent.com/83917694/198878487-ab8f1965-8f33-4cea-8667-21c511bb8ba0.png)
 
 
 <!---
