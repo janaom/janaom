@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @janaom, Google Cloud ACE, working with Google Cloud services, Airflow, Ansible etc.
+- 👋 Hi, I’m @janaom, Google Cloud Certified ACE/ADP/PDE, working with Google Cloud services, Airflow, Ansible etc.
 - 👀 I’m interested in Cloud/Data Engineering
-- 🌱 I’m currently learning GCP | Kubernetes | Apache Beam
+- 🌱 I’m currently learning GCP | Kubernetes | Apache Beam | Python | PySpark | Databricks
 - 💞️ I’m looking to collaborate on Cloud/Data Engineering tasks.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jana-polianskaja/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jana-polianskaja/)
+- 👩🏻‍💻 Writer for the Google Cloud (60k followers) and Airflow (1.9k followers) communities on [Medium](https://medium.com/@jana_om)
 
 
 <!---
